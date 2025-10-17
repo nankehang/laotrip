@@ -138,7 +138,7 @@ export default function FoodPage() {
             <div className="text-5xl mb-4">🍚</div>
             <h3 className="text-xl font-bold mb-3">Sticky Rice Culture</h3>
             <p className="text-gray-600">
-              Sticky rice (khao niao) is central to Lao identity. It's eaten with your hands and accompanies every meal.
+              Sticky rice (khao niao) is central to Lao identity. It&apos;s eaten with your hands and accompanies every meal.
             </p>
           </div>
         </div>
@@ -282,7 +282,7 @@ export default function FoodPage() {
           <div className="flex items-start gap-4">
             <span className="text-2xl">🌶️</span>
             <div>
-              <strong>Spice Level:</strong> Don't be shy to ask for "baw pet" (not spicy) - vendors are happy to adjust heat levels.
+              <strong>Spice Level:</strong> Don&apos;t be shy to ask for &quot;baw pet&quot; (not spicy) - vendors are happy to adjust heat levels.
             </div>
           </div>
         </div>
