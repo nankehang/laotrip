@@ -1,0 +1,21 @@
+{
+  "name": "LaoTrip.la",
+  "short_name": "LaoTrip",
+  "description": "Discover the Green Heart of Laos - Eco Travel & Nature Adventures",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B755F",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

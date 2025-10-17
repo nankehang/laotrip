@@ -1,0 +1,283 @@
+{
+  "destinations": [
+    {
+      "id": "kuang-si-falls",
+      "name": "Kuang Si Falls",
+      "province": "Luang Prabang",
+      "shortDescription": "A stunning three-tier waterfall with turquoise pools perfect for swimming.",
+      "fullDescription": "Kuang Si Falls is one of Laos' most beautiful natural wonders. The multi-tiered waterfall cascades over limestone formations, creating brilliant turquoise pools where visitors can swim. The main fall drops 50 meters into a large pool below. A network of trails leads through the jungle to viewing platforms and swimming areas. The park also includes a bear rescue center protecting Asiatic black bears.",
+      "openingHours": "8:00 AM - 5:30 PM daily",
+      "entryFee": "20,000 LAK (~$2 USD)",
+      "mapLink": "https://maps.google.com/?q=Kuang+Si+Falls+Luang+Prabang",
+      "category": "nature",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Kuang Si Falls turquoise pools and waterfall"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Swimming pools at Kuang Si Falls"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Kuang Si waterfall from viewing platform"
+        }
+      ],
+      "tags": ["waterfall", "swimming", "nature", "photography"],
+      "bestTimeToVisit": "November to February (dry season)",
+      "tips": "Visit early morning to avoid crowds. Bring swimwear and waterproof bag for your belongings."
+    },
+    {
+      "id": "luang-prabang-night-market",
+      "name": "Luang Prabang Night Market",
+      "province": "Luang Prabang",
+      "shortDescription": "A vibrant street market offering handmade crafts, textiles, and local food.",
+      "fullDescription": "Every evening, the main street of Luang Prabang transforms into a bustling night market. Local artisans sell handwoven textiles, silver jewelry, paintings, lanterns, and traditional crafts. The market is known for its authentic, high-quality products at reasonable prices. Sample local street food while browsing, and enjoy the peaceful atmosphere as monks' chants echo from nearby temples.",
+      "openingHours": "5:00 PM - 10:00 PM daily",
+      "entryFee": "Free",
+      "mapLink": "https://maps.google.com/?q=Luang+Prabang+Night+Market",
+      "category": "culture",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Luang_Prabang_Night_Market.jpg",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Colorful handicrafts at Luang Prabang Night Market"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Traditional Lao textiles and lanterns"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1526662684440-faf0a20c6bc4?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Night market atmosphere with vendors"
+        }
+      ],
+      "tags": ["shopping", "culture", "handicrafts", "food"],
+      "bestTimeToVisit": "Year-round, arrives early for better selection",
+      "tips": "Bargaining is expected but stay respectful. Bring cash in small denominations."
+    },
+    {
+      "id": "mount-phousi",
+      "name": "Mount Phousi",
+      "province": "Luang Prabang",
+      "shortDescription": "Sacred hill offering panoramic sunset views over Luang Prabang.",
+      "fullDescription": "Mount Phousi rises 100 meters above the center of Luang Prabang, offering spectacular 360-degree views of the city, Mekong River, and surrounding mountains. The climb involves 328 steps through jungle and past Buddhist shrines. At the summit sits Wat Chom Si, a golden temple stupa. Sunset is the most popular time to visit, when the sky turns orange and pink over the rivers below.",
+      "openingHours": "6:00 AM - 6:00 PM daily",
+      "entryFee": "20,000 LAK (~$2 USD)",
+      "mapLink": "https://maps.google.com/?q=Mount+Phousi+Luang+Prabang",
+      "category": "temple",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1563784462041-5f97ac9523dd?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Sunset view from Mount Phousi temple"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1580654842414-e9094d1ea889?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Golden stupa at Wat Chom Si on Mount Phousi"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Stairs leading up Mount Phousi"
+        }
+      ],
+      "tags": ["temple", "sunset", "viewpoint", "hiking"],
+      "bestTimeToVisit": "Sunset (5:00-6:00 PM) for best views",
+      "tips": "Arrive 30 minutes before sunset to secure a good spot. Wear modest clothing for temple areas."
+    },
+    {
+      "id": "pha-that-luang",
+      "name": "Pha That Luang",
+      "province": "Vientiane",
+      "shortDescription": "Laos' most sacred Buddhist monument, covered in gleaming gold.",
+      "fullDescription": "Pha That Luang (Great Stupa) is the most important national monument in Laos and a symbol of both Buddhist religion and Lao sovereignty. Built in the 16th century, the golden stupa stands 45 meters tall and is believed to contain a relic of the Buddha. The temple complex includes beautiful cloisters and smaller stupas. The annual That Luang Festival in November attracts thousands of pilgrims.",
+      "openingHours": "8:00 AM - 5:00 PM daily",
+      "entryFee": "10,000 LAK (~$1 USD)",
+      "mapLink": "https://maps.google.com/?q=Pha+That+Luang+Vientiane",
+      "category": "temple",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1642085085078-2eac87feb4c7?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Pha That Luang golden stupa in Vientiane"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Close-up of Pha That Luang architecture"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1551918120-9739cb430c6d?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Pha That Luang temple complex grounds"
+        }
+      ],
+      "tags": ["temple", "architecture", "culture", "history"],
+      "bestTimeToVisit": "November for That Luang Festival",
+      "tips": "Visit in late afternoon for beautiful golden-hour lighting. Dress modestly covering shoulders and knees."
+    },
+    {
+      "id": "patuxai-monument",
+      "name": "Patuxai Monument",
+      "province": "Vientiane",
+      "shortDescription": "Victory monument resembling the Arc de Triomphe, with city views from the top.",
+      "fullDescription": "Patuxai (literally 'Victory Gate') is a war monument in the center of Vientiane built between 1957-1968. While it resembles the Arc de Triomphe in Paris, Patuxai features distinctly Lao architectural elements including kinnari (mythical bird-woman) figures and lotus motifs. Climb to the top for panoramic views of Vientiane and its wide boulevards. The monument sits at the end of Lane Xang Avenue, surrounded by parkland and fountains.",
+      "openingHours": "8:00 AM - 5:00 PM daily",
+      "entryFee": "3,000 LAK (~$0.30 USD)",
+      "mapLink": "https://maps.google.com/?q=Patuxai+Monument+Vientiane",
+      "category": "culture",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/1280px-Vientiane_-_Patuxai_-_0003.jpg",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Patuxai Monument in Vientiane"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519824145371-296894a0daa9?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "View of Patuxai from park"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1603262110358-61a1f847b3d6?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Interior ceiling of Patuxai Monument"
+        }
+      ],
+      "tags": ["monument", "viewpoint", "architecture", "history"],
+      "bestTimeToVisit": "Early morning or late afternoon to avoid heat",
+      "tips": "Climb to the top for 360-degree views. Small souvenir shops inside the monument."
+    },
+    {
+      "id": "nam-song-river",
+      "name": "Nam Song River",
+      "province": "Vang Vieng",
+      "shortDescription": "Scenic river surrounded by karst mountains, perfect for tubing and kayaking.",
+      "fullDescription": "The Nam Song River flows through Vang Vieng, creating one of Southeast Asia's most spectacular landscapes. Towering limestone karst mountains rise dramatically from the riverbanks. Popular activities include tubing (floating downstream in an inner tube), kayaking, and riverside relaxation. The river offers stunning scenery, caves to explore, and local villages to visit. The calm waters make it accessible for all ages.",
+      "openingHours": "Open 24/7 (tour operators 8:00 AM - 6:00 PM)",
+      "entryFee": "Tubing rental: 60,000 LAK (~$6 USD)",
+      "mapLink": "https://maps.google.com/?q=Nam+Song+River+Vang+Vieng",
+      "category": "nature",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Nam Song River with karst mountains"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1520962922320-2038334f8f97?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Kayaking on Nam Song River"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Sunset over Nam Song River"
+        }
+      ],
+      "tags": ["river", "tubing", "kayaking", "adventure"],
+      "bestTimeToVisit": "November to April (dry season, calm waters)",
+      "tips": "Start tubing early (before noon) to enjoy full day. Bring waterproof bag and sunscreen."
+    },
+    {
+      "id": "blue-lagoon",
+      "name": "Blue Lagoon",
+      "province": "Vang Vieng",
+      "shortDescription": "Natural swimming hole with crystal-clear turquoise water and rope swings.",
+      "fullDescription": "Blue Lagoon (Tham Poukham) is a stunning natural pool at the base of a cave near Vang Vieng. The water is incredibly clear and turquoise, surrounded by jungle and limestone cliffs. Visitors can swim, jump from rope swings and platforms, or explore the cave above (which houses a reclining Buddha statue). There are multiple Blue Lagoons in the area - Blue Lagoon 1 is the most accessible and popular.",
+      "openingHours": "8:00 AM - 6:00 PM daily",
+      "entryFee": "10,000 LAK (~$1 USD)",
+      "mapLink": "https://maps.google.com/?q=Blue+Lagoon+Vang+Vieng",
+      "category": "nature",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Blue Lagoon turquoise water"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Swimming at Blue Lagoon"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Rope swing at Blue Lagoon"
+        }
+      ],
+      "tags": ["swimming", "cave", "adventure", "nature"],
+      "bestTimeToVisit": "November to March (cooler weather, clear water)",
+      "tips": "Arrive early to beat crowds. Bring cash for entrance and food vendors. Watch your step on rocks."
+    },
+    {
+      "id": "wat-phou",
+      "name": "Wat Phou",
+      "province": "Champasak",
+      "shortDescription": "UNESCO World Heritage Khmer temple ruins predating Angkor Wat.",
+      "fullDescription": "Wat Phou (Mountain Temple) is a ruined Khmer Hindu temple complex dating from the 11th-13th centuries, built before Angkor Wat. The temple sits at the base of Mount Phou Kao, aligned with the peak's summit. Visitors climb through three levels of ruins, passing ancient pavilions, stone carvings of Hindu deities, and a sacred spring. The mountain setting and historical significance make it one of Laos' most important archaeological sites.",
+      "openingHours": "8:00 AM - 4:30 PM daily",
+      "entryFee": "50,000 LAK (~$5 USD)",
+      "mapLink": "https://maps.google.com/?q=Wat+Phou+Champasak",
+      "category": "temple",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ruined_northern_palace_in_the_Khmer_Hindu_temple_complex_of_Wat_Phou_at_sunset%2C_Champasak%2C_Laos.jpg",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Wat Phou temple ruins in Champasak"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Ancient stone carvings at Wat Phou"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Mountain view from Wat Phou"
+        }
+      ],
+      "tags": ["temple", "UNESCO", "history", "ruins"],
+      "bestTimeToVisit": "November to February (cooler, dry season)",
+      "tips": "Wear comfortable shoes for climbing. Bring water and sun protection. Visit in morning to avoid heat."
+    },
+    {
+      "id": "si-phan-don",
+      "name": "Si Phan Don (4000 Islands)",
+      "province": "Champasak",
+      "shortDescription": "Tranquil river islands in the Mekong, perfect for relaxation and spotting rare dolphins.",
+      "fullDescription": "Si Phan Don (Four Thousand Islands) is a riverine archipelago in the Mekong River in southern Laos. During the dry season, thousands of small islands emerge from the river. The three main tourist islands are Don Det, Don Khon, and Don Khong. Activities include cycling, kayaking, visiting waterfalls (Khone Phapheng and Li Phi), and spotting rare Irrawaddy dolphins. The area is known for its laid-back atmosphere and stunning sunsets.",
+      "openingHours": "Open 24/7 (attractions vary)",
+      "entryFee": "Varies by activity (dolphin watching: 60,000 LAK)",
+      "mapLink": "https://maps.google.com/?q=Si+Phan+Don+4000+Islands",
+      "category": "nature",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg/1280px-River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Mekong River sunset at Si Phan Don"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Hammocks at Don Det Island"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1520962922320-2038334f8f97?auto=format&fit=crop&q=80&w=1200",
+          "credit": "Photo from Wikimedia Commons",
+          "alt": "Li Phi Waterfall at Si Phan Don"
+        }
+      ],
+      "tags": ["islands", "relaxation", "dolphins", "waterfalls"],
+      "bestTimeToVisit": "November to February (best weather, dolphin season)",
+      "tips": "Stay overnight on Don Det or Don Khon. Rent bicycle to explore. Book dolphin tours early morning."
+    }
+  ]
+}
