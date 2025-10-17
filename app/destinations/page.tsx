@@ -6,11 +6,24 @@ import Image from 'next/image';
 import destinationsData from '@/data/destinations.json';
 import DestinationModal from '@/components/shared/DestinationModal';
 import { MapPin, Filter } from 'lucide-react';
+import { generateBreadcrumbStructuredData, generateWebPageStructuredData } from '@/lib/structuredData';
 
 type Destination = typeof destinationsData.destinations[0];
 
 const provinces = ['All', 'Luang Prabang', 'Vientiane', 'Vang Vieng', 'Champasak'];
 const categories = ['All', 'nature', 'temple', 'culture', 'landmark'];
+
+// Structured data for SEO
+const breadcrumbData = generateBreadcrumbStructuredData([
+  { name: 'Home', url: 'https://laotrip.la' },
+  { name: 'Destinations', url: 'https://laotrip.la/destinations' },
+]);
+
+const webPageData = generateWebPageStructuredData(
+  'Top Destinations in Laos',
+  'Discover the best places to visit in Laos including waterfalls, temples, nature, and cultural attractions.',
+  'https://laotrip.la/destinations'
+);
 
 export default function DestinationsPage() {
   const [selectedProvince, setSelectedProvince] = useState('All');
@@ -25,6 +38,15 @@ export default function DestinationsPage() {
 
   return (
     <div className="min-h-screen bg-[#F5F5DC]">
+      {/* Structured Data for SEO */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageData) }}
+      />
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-[#2F5D3E] to-[#3498DB] text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

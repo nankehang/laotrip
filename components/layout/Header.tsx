@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 
 export default function Header() {
@@ -11,8 +12,15 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-2">
-            <div className="text-3xl font-bold">
+          <Link href="/" className="flex items-center space-x-3">
+            <Image
+              src="/apple-touch-icon.png"
+              alt="LaoTrip.la Logo"
+              width={40}
+              height={40}
+              className="rounded-lg"
+            />
+            <div className="text-2xl font-bold">
               <span className="text-[#2F5D3E]">Lao</span><span className="text-[#7CB342]">Trip</span><span className="text-[#2F5D3E]">.la</span>
             </div>
           </Link>
